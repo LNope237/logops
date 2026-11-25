@@ -1,0 +1,8 @@
+.env
+out/*
+!out/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+!data/logs/access.log
+.DS_Store
+Thumbs.db
